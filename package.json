@@ -1,0 +1,1 @@
+{ "name": "jewelry-website", "version": "1.0.0", "description": "Modern luxury jewelry website with minimal design", "main": "server.js", "scripts": { "start": "node server.js", "dev": "node server.js" }, "keywords": ["jewelry", "luxury", "minimal", "responsive"], "author": "Aurum & Co.", "license": "MIT" }
